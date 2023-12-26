@@ -19,4 +19,8 @@ Note : you can use[] before or after variable.
 2. We can also use Arrays.toString() method to print array in array structure.
 
 
+# Update the element at paricular index: 
+1. Take index and value from user and run loop over array and 
+check if index is same as user entered index then directly updated element by user entered value
+
 
