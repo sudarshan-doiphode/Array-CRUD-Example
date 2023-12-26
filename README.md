@@ -14,4 +14,9 @@ _ways to Declare an array :_
 
 Note : you can use[] before or after variable. 
 
+# Access Array Elements :
+1. To print elements from array we can use loops like for, for each (enhanced for) and while
+2. We can also use Arrays.toString() method to print array in array structure.
+
+
 
