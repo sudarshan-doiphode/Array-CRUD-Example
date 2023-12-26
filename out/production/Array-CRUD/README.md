@@ -7,11 +7,4 @@ In this repository, I have added basic examples of Declaring an Array, Initializ
 3. Size of Array is fixed.
 
 # Array Declaration :
-_ways to Declare an array :_
-1. int[] array = new int[5] ---> array declare with fixed size -->Use scanner to take input
-2. int array[] = new int[5] ---> array declare with fixed size
-3. int array[] = {1,2,4,5} ---> array with Initialized elements
-
-Note : you can use[] before or after variable. 
-
 
